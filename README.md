@@ -13,6 +13,8 @@ Future Versions:
 
 MIT license, C#, Windows, built with Visual Studio 2022.
 
+![PortalTime with Timers running and Settings Panel open](./PortalTime_Running.jpg)
+
 ![PortalTime Progress as of January, 2025](./PortalTime_Progress_Jan2025.jpg)
 
 ![PortalTime Progress as of January, 2025](./PortalTime_Progress_Jan2025_2.jpg)
