@@ -1,4 +1,6 @@
 # PortalTime
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+[![Build status](https://ci.appveyor.com/api/projects/status/29qqerrepmrg?svg=true)](https://ci.appveyor.com/project/ciphernemo/portaltime) 
 <h2>Track portal and zone expiration times in Path of Exile 2</h2>
 
 Path of Exile 2 is a game developed by Grinding Gear Games: https://pathofexile2.com
