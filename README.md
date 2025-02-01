@@ -1,5 +1,5 @@
 # PortalTime
-<h2>Track portal expiration times in Path of Exile 2</h2>
+<h2>Track portal and zone expiration times in Path of Exile 2</h2>
 
 Path of Exile 2 is a game developed by Grinding Gear Games: https://pathofexile2.com
 
